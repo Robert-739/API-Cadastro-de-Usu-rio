@@ -29,7 +29,7 @@ A API está dividida em rotas específicas para cada ação:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [Repositório da API no GitHub](https://github.com/Robert-739/API-Cadastro-de-Usu-rio.git)
+   git clone (https://github.com/Robert-739/API-Cadastro-de-Usu-rio.git)
 
 2. **Instale as dependências:**
    ```bash
